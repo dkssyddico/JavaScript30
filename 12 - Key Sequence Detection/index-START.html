@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Key Detection</title>
+    <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
+  </head>
+  <body>
+    <script>
+      const pressed = [];
+      const secretCode = 'dkssyddico';
+
+      console.log(secretCode.length);
+      console.log(-secretCode.length - 1);
+      console.log('hi');
+
+      window.addEventListener('keyup', (e) => {
+        console.log(e.key);
+        pressed.push(e.key);
+        pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length); // -10 -1, 맨 앞이 잘림
+        if (pressed.join('').includes(secretCode)) {
+          console.log('Wow');
+          cornify_add();
+        }
+        console.log(pressed);
+      });
+
+      const hi = 'abcdef';
+      const newA = ['a', 'b', 'c', 'd', 'e', 'f', 'g'];
+      console.log(-hi.length - 1);
+      newA.splice(-hi.length - 1, 1);
+      console.log(newA);
+
+      const newArray = ['a', 'b', 'c', 'd'];
+      console.log(newArray.splice(1, 2));
+      console.log(newArray.includes('e'));
+    </script>
+  </body>
+</html>
