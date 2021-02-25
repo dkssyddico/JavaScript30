@@ -60,3 +60,9 @@ console.log(newArray.splice(1, 2)); // return ['b', 'c']
 
 console.log(newArray.includes('e')); // return false
 ```
+
+## 2021. Feb. 26th
+
+### Day 13 Challenge: slide in on scroll
+
+💙 goals of this course
