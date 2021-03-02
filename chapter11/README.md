@@ -22,7 +22,7 @@
   I think it gives priority to video click event. (1. video event 2. slider event)
 - video speed (I totally missed it 😂)
 
-### 👩🏻‍💻 What I learned
+### 👩🏻‍💻 What I learnt
 
 - HTML Media Element property: HTMLMediaElement.currentTime, HTMLMediaElement.duration, HTMLMediaElement.paused
 

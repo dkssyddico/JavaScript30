@@ -10,7 +10,7 @@ This is a note for JS daily challenge.
 2. 💙 goals of this course
 3. ✅ What I succeeded
 4. ❌ What I failed
-5. 👩🏻‍💻 What I learned
+5. 👩🏻‍💻 What I learnt
 6. reference
 
 |      Date       | Number |                Title                 |             Link             |
@@ -31,6 +31,6 @@ Date
 
 ❌ What I failed
 
-👩🏻‍💻 What I learned
+👩🏻‍💻 What I learnt
 
 ⭐️ Reference

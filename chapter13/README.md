@@ -6,7 +6,7 @@
 
 - When scrolling down and passing half of image height, image has to be shown.
 
-### 👩🏻‍💻 What I learned
+### 👩🏻‍💻 What I learnt
 
 - debounce
 - window.scrollY, window.innerheight, offsetTop

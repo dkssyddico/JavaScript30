@@ -8,7 +8,7 @@
 - understand keyboard event: **keyup**
 - understand **Array** methods : push, splice, join, includes
 
-### 👩🏻‍💻 What I learned
+### 👩🏻‍💻 What I learnt
 
 - keyup event
 - how to use Array methods 🔽
