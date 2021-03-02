@@ -2,13 +2,13 @@
 
 ## 2021. Feb. 23th
 
-💙 goals of this course
+### 💙 goals of this course
 
 - match up with words that user enter on keyboard
 - understand keyboard event: **keyup**
 - understand **Array** methods : push, splice, join, includes
 
-👩🏻‍💻 What I learned
+### 👩🏻‍💻 What I learned
 
 - keyup event
 - how to use Array methods 🔽
