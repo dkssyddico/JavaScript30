@@ -20,6 +20,7 @@ This is a note for JS daily challenge.
 | 2021. Mar. 2nd  |   13   |          Slide in on Scroll           | [Day13](chapter13/README.md) |
 | 2021. Mar. 3rd  |   14   | Object and Arrays - Reference VS Copy | [Day14](chapter14/README.md) |
 | 2021. Mar. 4th  |   15   |   LocalStorage and Event Delegation   | [Day15](chapter15/README.md) |
+| 2021. Mar. 5th  |   16   |           Mouse Move Shadow           | [Day16](chapter16/README.md) |
 
 📝 Note template for each challenge should be..
 
