@@ -13,16 +13,17 @@ This is a note for JS daily challenge.
 5. 👩🏻‍💻 What I learnt
 6. reference
 
-|      Date       | Number |                 Title                 |             Link             |
-| :-------------: | :----: | :-----------------------------------: | :--------------------------: |
-| 2021. Feb. 22th |   11   |       Custom HTML5 Video Player       | [Day11](chapter11/README.md) |
-| 2021. Feb. 23th |   12   | Key Sequence Detection (KONAMI CODE)  | [Day12](chapter12/README.md) |
-| 2021. Mar. 2nd  |   13   |          Slide in on Scroll           | [Day13](chapter13/README.md) |
-| 2021. Mar. 3rd  |   14   | Object and Arrays - Reference VS Copy | [Day14](chapter14/README.md) |
-| 2021. Mar. 4th  |   15   |   LocalStorage and Event Delegation   | [Day15](chapter15/README.md) |
-| 2021. Mar. 5th  |   16   |           Mouse Move Shadow           | [Day16](chapter16/README.md) |
-| 2021. Mar. 6th  |   17   |         Sort Without Articles         | [Day17](chapter17/README.md) |
-| 2021. Mar. 7th  |   18   |   18 - Adding Up Times with Reduce    | [Day18](chapter18/README.md) |
+|      Date       | Number |                   Title                    |             Link             |
+| :-------------: | :----: | :----------------------------------------: | :--------------------------: |
+| 2021. Feb. 22th |   11   |       11- Custom HTML5 Video Player        | [Day11](chapter11/README.md) |
+| 2021. Feb. 23th |   12   | 12 - Key Sequence Detection (KONAMI CODE)  | [Day12](chapter12/README.md) |
+| 2021. Mar. 2nd  |   13   |          13 - Slide in on Scroll           | [Day13](chapter13/README.md) |
+| 2021. Mar. 3rd  |   14   | 14 - Object and Arrays - Reference VS Copy | [Day14](chapter14/README.md) |
+| 2021. Mar. 4th  |   15   |   15 - LocalStorage and Event Delegation   | [Day15](chapter15/README.md) |
+| 2021. Mar. 5th  |   16   |           16 - Mouse Move Shadow           | [Day16](chapter16/README.md) |
+| 2021. Mar. 6th  |   17   |         17 - Sort Without Articles         | [Day17](chapter17/README.md) |
+| 2021. Mar. 7th  |   18   |      18 - Adding Up Times with Reduce      | [Day18](chapter18/README.md) |
+| 2021. Mar. 8th  |   19   |              19 - Webcam Fun               | [Day19](chapter19/README.md) |
 
 📝 Note template for each challenge should be..
 
