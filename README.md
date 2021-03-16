@@ -27,6 +27,7 @@ This is a note for JS daily challenge.
 | 2021. Mar. 9th  |   20   |           20 - Speech Detection            | [Day20](chapter20/README.md) |
 | 2021. Mar. 11th |   21   |              21 - Geolocation              | [Day21](chapter21/README.md) |
 | 2021. Mar. 14th |   22   |     22 - Follow Along Link Highlighter     | [Day22](chapter22/README.md) |
+| 2021. Mar. 16th |   23   |           23 - Speech Synthesis            | [Day23](chapter23/README.md) |
 
 📝 Note template for each challenge should be..
 
