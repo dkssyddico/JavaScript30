@@ -13,22 +13,23 @@ This is a note for JS daily challenge.
 5. 👩🏻‍💻 What I learnt
 6. reference
 
-|      Date       | Number |                   Title                    |             Link             |
-| :-------------: | :----: | :----------------------------------------: | :--------------------------: |
-| 2021. Feb. 22th |   11   |       11- Custom HTML5 Video Player        | [Day11](chapter11/README.md) |
-| 2021. Feb. 23th |   12   | 12 - Key Sequence Detection (KONAMI CODE)  | [Day12](chapter12/README.md) |
-| 2021. Mar. 2nd  |   13   |          13 - Slide in on Scroll           | [Day13](chapter13/README.md) |
-| 2021. Mar. 3rd  |   14   | 14 - Object and Arrays - Reference VS Copy | [Day14](chapter14/README.md) |
-| 2021. Mar. 4th  |   15   |   15 - LocalStorage and Event Delegation   | [Day15](chapter15/README.md) |
-| 2021. Mar. 5th  |   16   |           16 - Mouse Move Shadow           | [Day16](chapter16/README.md) |
-| 2021. Mar. 6th  |   17   |         17 - Sort Without Articles         | [Day17](chapter17/README.md) |
-| 2021. Mar. 7th  |   18   |      18 - Adding Up Times with Reduce      | [Day18](chapter18/README.md) |
-| 2021. Mar. 8th  |   19   |              19 - Webcam Fun               | [Day19](chapter19/README.md) |
-| 2021. Mar. 9th  |   20   |           20 - Speech Detection            | [Day20](chapter20/README.md) |
-| 2021. Mar. 11th |   21   |              21 - Geolocation              | [Day21](chapter21/README.md) |
-| 2021. Mar. 14th |   22   |     22 - Follow Along Link Highlighter     | [Day22](chapter22/README.md) |
-| 2021. Mar. 16th |   23   |           23 - Speech Synthesis            | [Day23](chapter23/README.md) |
-| 2021. Mar. 17th |   24   |              24 - Sticky Nav               | [Day24](chapter24/README.md) |
+|      Date       | Number |                       Title                        |             Link             |
+| :-------------: | :----: | :------------------------------------------------: | :--------------------------: |
+| 2021. Feb. 22th |   11   |           11- Custom HTML5 Video Player            | [Day11](chapter11/README.md) |
+| 2021. Feb. 23th |   12   |     12 - Key Sequence Detection (KONAMI CODE)      | [Day12](chapter12/README.md) |
+| 2021. Mar. 2nd  |   13   |              13 - Slide in on Scroll               | [Day13](chapter13/README.md) |
+| 2021. Mar. 3rd  |   14   |     14 - Object and Arrays - Reference VS Copy     | [Day14](chapter14/README.md) |
+| 2021. Mar. 4th  |   15   |       15 - LocalStorage and Event Delegation       | [Day15](chapter15/README.md) |
+| 2021. Mar. 5th  |   16   |               16 - Mouse Move Shadow               | [Day16](chapter16/README.md) |
+| 2021. Mar. 6th  |   17   |             17 - Sort Without Articles             | [Day17](chapter17/README.md) |
+| 2021. Mar. 7th  |   18   |          18 - Adding Up Times with Reduce          | [Day18](chapter18/README.md) |
+| 2021. Mar. 8th  |   19   |                  19 - Webcam Fun                   | [Day19](chapter19/README.md) |
+| 2021. Mar. 9th  |   20   |               20 - Speech Detection                | [Day20](chapter20/README.md) |
+| 2021. Mar. 11th |   21   |                  21 - Geolocation                  | [Day21](chapter21/README.md) |
+| 2021. Mar. 14th |   22   |         22 - Follow Along Link Highlighter         | [Day22](chapter22/README.md) |
+| 2021. Mar. 16th |   23   |               23 - Speech Synthesis                | [Day23](chapter23/README.md) |
+| 2021. Mar. 17th |   24   |                  24 - Sticky Nav                   | [Day24](chapter24/README.md) |
+| 2021. Mar. 20th |   25   | 25 - Event Capture, Propagation, Bubbling and Once | [Day25](chapter25/README.md) |
 
 📝 Note template for each challenge should be..
 
