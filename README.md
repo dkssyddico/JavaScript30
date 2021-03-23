@@ -31,6 +31,7 @@ This is a note for JS daily challenge.
 | 2021. Mar. 17th |   24   |                  24 - Sticky Nav                   | [Day24](chapter24/README.md) |
 | 2021. Mar. 20th |   25   | 25 - Event Capture, Propagation, Bubbling and Once | [Day25](chapter25/README.md) |
 | 2021. Mar. 22th |   26   |            26 - Stripe Follow Along Nav            | [Day26](chapter26/README.md) |
+| 2021. Mar. 23th |   27   |                27 - Click and Drag                 | [Day27](chapter27/README.md) |
 
 📝 Note template for each challenge should be..
 
