@@ -34,7 +34,7 @@ This is a note for JS daily challenge.
 | 2021. Mar. 23th |   27   |                27 - Click and Drag                 | [Day27](day27/README.md) |
 | 2021. Mar. 24th |   28   |            28 - Video Speed Controller             | [Day28](day28/README.md) |
 | 2021. Apr. 1st  |   29   |                29 - Countdown Timer                | [Day29](day29/README.md) |
-| 2021. Apr. 2nd  |   30   |                30 - Countdown Timer                | [Day30](day30/README.md) |
+| 2021. Apr. 2nd  |   30   |                 30 - Whack A Mole                  | [Day30](day30/README.md) |
 
 📝 Note template for each challenge should be..
 
